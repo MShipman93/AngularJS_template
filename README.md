@@ -42,6 +42,7 @@ app.js : 4
 index.html : 2,3,4,5,9
 package.json : 2
 controllers/view1.js : 4
+views/main.html : 2
 ```
 
 
