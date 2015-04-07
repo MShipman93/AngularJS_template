@@ -35,6 +35,15 @@ npm start
 ```
 Now browse to the app at http://localhost:8000/#/
 
+### One last thing
+Before you start development you should go through and change all the 'newApp' arguements to your app's name. Below is a list of places you will find these arguments:
+```
+app.js : 4
+index.html : 2,3,4,5,9
+package.json : 2
+controllers/view1.js : 4
+```
+
 
 ## Directory Layout
 ```
