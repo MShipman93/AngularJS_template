@@ -1,10 +1,8 @@
 # AngularJS template
----
 A simple AngularJS app with a basic file structure.
 
 
 ## Getting started
----
 To get started you can do a simple clone from the repository and install the dependencies
 
 ### Clone AngularJS_template
@@ -37,7 +35,6 @@ Now browse to the app at http://localhost:8000/#/
 
 
 ## Directory Layout
----
 ```
 app/                --> all of the source files for the application
   assets/             --> folder that contains all assets
