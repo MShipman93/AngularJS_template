@@ -1,5 +1,7 @@
 # AngularJS template
-A simple AngularJS app with a basic file structure.
+This project is an AnguluarJS skeleton for a typical web app. This project aims to give you a quick bootstrap for your AngularJS web app projects. It includes the AngularJS and Bootstrap frameworks.
+
+The application doesn't do a lot, it just shows you how to wire up controllers and views and gives you a basic file structure for your projects.
 
 
 ## Getting started
