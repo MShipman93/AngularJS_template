@@ -16,7 +16,7 @@ cd AngularJS_template
 
 If you just want to start a new project without the AngularJS_template commit history then you can do:
 ```
-git clone --depth=1 https://github.com/angular/angular-seed.git <your-project-name>
+git clone --depth=1 https://github.com/xxMShipmanxx/AngularJS_template.git <your-project-name>
 ```
 The depth=1 tells git to only pull down one commit worth of historical data.
 
